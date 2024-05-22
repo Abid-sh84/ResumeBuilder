@@ -86,6 +86,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 - **Name:** Abid
-- **Email:** [your.email@example.com](mailto:muhammadabid9326@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mohd-abid-shaikh-a3738328b/)
+- **Email:** [muhammadabid9326@gmail.com](mailto:muhammadabid9326@gmail.com)
+- **LinkedIn:** [](https://www.linkedin.com/in/mohd-abid-shaikh-a3738328b/)
 
